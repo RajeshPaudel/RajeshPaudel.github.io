@@ -1,0 +1,47 @@
+body{
+    margin: 5px;
+    padding: 2px;;
+}
+header{
+    background-image: url(flywheel.jpg);
+    padding: 10px;
+}
+h1{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;    
+}
+nav a{
+    display: inline-block;
+    width: 20%;
+    padding: 15px 15px;
+    text-align: center;
+    background-color: white;
+    opacity: 50%;
+    
+    margin: 5px;
+    background-color: ;
+    text-decoration: none;
+    border-radius: 2px;
+}
+a:hover{
+    background-color: aqua;
+    opacity: 100%;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color:maroon;
+}
+div section{
+    width: fit-content;
+    background-color: green;
+    padding: 10px 10px;
+    float: left;
+    margin-right: 3px;
+}
+img{
+    border: 5px solid black;
+    margin-bottom: 10px;
+}
